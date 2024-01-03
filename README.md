@@ -9,3 +9,9 @@ Some descriptions!
 adding more text
 
 add more text
+
+## Local Development
+
+1. Open index.html in your browser
+2. stop working
+3. eat some snack
